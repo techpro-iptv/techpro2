@@ -311,21 +311,19 @@ https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpubl
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="General",Red Bull TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Sports",Red Bull TV
 https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="General",Sky Racing
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Sports",Sky Racing
 https://636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="General",Star Sports 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Sports",Star Sports 2 HD
 https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="General",Willow Sports
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Sports",Willow Sports
 https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Imported",Pk sport
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Sports",Pk sport
 https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Sports",Euro Sport HD
@@ -334,19 +332,19 @@ https://stream.ottplus.bd/live/euro_sports_hd_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Sports",Ten Cricket HD
 https://stream.ottplus.bd/live/ten_cricket_hd_abr/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="General",Red Bull TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Sports",Red Bull TV
 https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="General",Sky Racing
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Sports",Sky Racing
 https://636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="General",Star Sports 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Sports",Star Sports 2 HD
 https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="General",Willow Sports
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Sports",Willow Sports
 https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Imported",Pk sport
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Sports",Pk sport
 https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Sports",Euro Sport HD
@@ -354,6 +352,5 @@ https://stream.ottplus.bd/live/euro_sports_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Sports",Ten Cricket HD
 https://stream.ottplus.bd/live/ten_cricket_hd_abr/index.m3u8
-
 
 
