@@ -276,3 +276,32 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Islamic",Quran TV
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpublish/shqurantv_source/chunks.m3u8
 
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Infotainment",Animal Planet
+https://stream.ottplus.bd/live/animal_planet_sd_abr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Infotainment",Discovery HD
+https://stream.ottplus.bd/live/discovery_hd_abr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Infotainment",Discovery Science
+https://stream.ottplus.bd/live/discovery_science_abr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Infotainment",Discovery SD
+https://stream.ottplus.bd/live/discovery_sd_abr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Infotainment",ID HD
+https://stream.ottplus.bd/live/id_hd_abr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Infotainment",TLC HD
+https://stream.ottplus.bd/live/tlc_hd_abr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Infotainment",TLC SD
+https://stream.ottplus.bd/live/tlc_sd_abr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Infotainment",Turbo India
+https://stream.ottplus.bd/live/discovery_turbo_abr/index.m3u8
+
