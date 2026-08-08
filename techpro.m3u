@@ -190,9 +190,6 @@ https://stream.ottplus.live/live/zee_tv_hd_abr/index.m3u8
 
 
 
-
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Kids",ABC Kids
 https://c.mjh.nz/abc-kids.m3u8
 
@@ -261,24 +258,6 @@ https://server.zillarbarta.com/zbcatun/video.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Islamic",Islamic TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamictvbd.stream/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Islamic",Madani Tv
-https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Islamic",Makkah Live
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/makkah.stream/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Islamic",Peace TV Bangla
-https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Islamic",Quran TV
-https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpublish/shqurantv_source/chunks.m3u8
-
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Infotainment",Animal Planet
@@ -304,4 +283,24 @@ https://stream.ottplus.bd/live/tlc_sd_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Infotainment",Turbo India
 https://stream.ottplus.bd/live/discovery_turbo_abr/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Islamic",Islamic TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamictvbd.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Islamic",Madani Tv
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Islamic",Makkah Live
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/makkah.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Islamic",Peace TV Bangla
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Islamic",Quran TV
+https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpublish/shqurantv_source/chunks.m3u8
+
+
 
