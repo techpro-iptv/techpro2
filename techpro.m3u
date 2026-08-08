@@ -310,3 +310,9 @@ https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpubl
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Sports",Euro Sport HD
+https://stream.ottplus.bd/live/euro_sports_hd_abr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Sports",Ten Cricket HD
+https://stream.ottplus.bd/live/ten_cricket_hd_abr/index.m3u8
+
